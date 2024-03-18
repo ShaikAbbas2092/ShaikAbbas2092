@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShaikAbbas2092
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’ve  Knowledge on DevOps techologies which include Linux, Docker, Ansible, Kubernetes, Jenkins
+-  I know a bunch of cool stuff like AWS server, Python, SQL, Numpy 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
