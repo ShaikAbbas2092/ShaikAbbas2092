@@ -1,6 +1,6 @@
 ### Hi there, I'm Abbas Shaik! 👋
 
-🎓 A Software enthusiast currently pursuing my education at Saveetha School of Engineering.
+🎓 A Software enthusiast Graduated from Saveetha School of Engineering.
 
 👀 I’m passionate about Programming and exploring its endless possibilities.
 
